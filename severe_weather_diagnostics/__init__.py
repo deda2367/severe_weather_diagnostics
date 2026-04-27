@@ -6,3 +6,4 @@ from .core import (
 )
 
 from .plotting import plot_sounding_profile
+from .io import load_sounding_csv
