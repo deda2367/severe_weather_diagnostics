@@ -4,3 +4,5 @@ from .core import (
     calculate_stp_index,
     evaluate_severe_risk,
 )
+
+from .plotting import plot_sounding_profile
